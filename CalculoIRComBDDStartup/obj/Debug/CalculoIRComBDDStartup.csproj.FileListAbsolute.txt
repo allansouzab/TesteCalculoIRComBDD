@@ -1,0 +1,7 @@
+C:\Users\allan\source\repos\CalculoIRComBDD\CalculoIRComBDDStartup\bin\Debug\CalculoIRComBDDStartup.exe.config
+C:\Users\allan\source\repos\CalculoIRComBDD\CalculoIRComBDDStartup\bin\Debug\CalculoIRComBDDStartup.exe
+C:\Users\allan\source\repos\CalculoIRComBDD\CalculoIRComBDDStartup\bin\Debug\CalculoIRComBDDStartup.pdb
+C:\Users\allan\source\repos\CalculoIRComBDD\CalculoIRComBDDStartup\obj\Debug\CalculoIRComBDDStartup.csprojAssemblyReference.cache
+C:\Users\allan\source\repos\CalculoIRComBDD\CalculoIRComBDDStartup\obj\Debug\CalculoIRComBDDStartup.csproj.CoreCompileInputs.cache
+C:\Users\allan\source\repos\CalculoIRComBDD\CalculoIRComBDDStartup\obj\Debug\CalculoIRComBDDStartup.exe
+C:\Users\allan\source\repos\CalculoIRComBDD\CalculoIRComBDDStartup\obj\Debug\CalculoIRComBDDStartup.pdb
